@@ -1,4 +1,4 @@
-# Python technical challenge
+# Python challenge
 Given a string, "compress" the string by replacing repeated characters with a character and a number.
 
 The input string is limited to a-z and A-Z.
